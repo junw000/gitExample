@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,lee2275,Lee,June
 employee,secheng2,Cheng,Khoi
